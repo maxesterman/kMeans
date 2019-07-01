@@ -1,0 +1,33 @@
+Document 0:
+0.10229012251836936: airline
+0.07541565874228866: safety
+0.06054827247307066: civil
+0.0: disease
+0.0: hoof mouth
+0.0: mortgage
+0.0: mouth
+0.0: rate
+0.0: bank
+
+Document 1:
+0.124311580052293: disease
+0.06548804217630279: mouth
+0.05853269262023617: hoof mouth
+0.0024526066887682577: safety
+0.002237499569588818: bank
+0.0: mortgage
+0.0: airline
+0.0: rate
+0.0: civil
+
+Document 2:
+0.16630003646625618: bank
+0.14626238140311404: rate
+0.13181093914755002: mortgage
+0.0: disease
+0.0: hoof mouth
+0.0: airline
+0.0: mouth
+0.0: civil
+0.0: safety
+
